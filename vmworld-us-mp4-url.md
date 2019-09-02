@@ -1096,21 +1096,39 @@ NEDG2576BU - Know, Understand, Execute: Network Monitoring and Analytics with SD
 [SAI1847BU - Introduction to the VMware NSX Service-Defined Firewall](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI1847BU.mp4)
 
 [SAI1986BU - Agentless Anti-Virus with NSX-T Guest Introspection Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI1986BU.mp4)
+
 [SAI2134BU - Secure Your VMs with vSphere and AppDefense](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI2134BU.mp4)
+
 [SAI2565BU - What's New with NSX-T Micro-Segmentation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI2565BU.mp4)
+
 [SAI2781BU - NSX-T Advanced Security and Networking Service Insertion Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI2781BU.mp4)
+
 [SAI2849BU - Deploying AppDefense: Use Cases and Customer Examples](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI2849BU.mp4)
+
 [SAI3071BU - Using VMware NSX Policy and Analytics to Address Key Challenges in Security](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI3071BU.mp4)
+
 [SAI3196BU - AppDefense Reference Architecture Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI3196BU.mp4)
+
 [SAI3336BU - Best Practices: Security and Compliance for Cloud Workloads](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI3336BU.mp4)
+
 [SAI3503BUS - Best Practices for Architecting Hybrid Cloud Security](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI3503BUS.mp4)
+
 [SAI3508BUS - Security Past, Present and Future ??? Securing your Evolving Infrastructure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI3508BUS.mp4)
+
 [SAI3510BUS - Healthy Expansion: CHRISTUS Health???s Virtualization Journey ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI3510BUS.mp4)
+
 [SAI3673BU - Analytics-driven Application Security and Web Application Firewall ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI3673BU.mp4)
+
 [SAI4118BU - Data Guardians of the Galaxy: Securing the Future of your Endpoints](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SAI4118BU.mp4)
+
 [T5G1105BU - Achieving High Performance with NFV Data Plane Workloads: The Secrets](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G1105BU.mp4)
+
 [T5G1731BU - Accelerating VMware vCloud NFV Delivery: A Case Study](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G1731BU.mp4)
+
 [T5G1919BU - Deploying VMware vCloud NFV Integrated OpenStack: A Step-by-Step Approach](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G1919BU.mp4)
+
 [T5G2264BU - Ericsson Virtual Packet Gateway on vCloud NFV: Cooperation and Optimization](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G2264BU.mp4)
+
 [T5G3863BUS - Samsung Knox:  Evolution to Hyper-Connectivity](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G3863BUS.mp4)
+
 [T5G3864BU - Evolving your network with 5G and SD-WAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G3864BU.mp4)
